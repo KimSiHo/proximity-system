@@ -1,0 +1,9 @@
+[submodule "protocol"]
+	path = protocol
+	url = git@github.com:KimSiHo/protocol.git
+[submodule "jetson-bsp"]
+	path = jetson-bsp
+	url = git@github.com:KimSiHo/jetson-bsp.git
+[submodule "proximity-app"]
+	path = proximity-app
+	url = git@github.com:KimSiHo/proximity-app.git
